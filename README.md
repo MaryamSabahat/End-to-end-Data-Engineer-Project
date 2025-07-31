@@ -38,8 +38,9 @@ This project demonstrates a complete **Azure-native data engineering pipeline** 
 
 ## 2. Architecture Diagram
 
-*(Insert architecture diagram image here. You can upload it to your repo and link like this:)*  
-`![Architecture Diagram](./images/architecture.png)`
+
+<img width="975" height="539" alt="image" src="https://github.com/user-attachments/assets/8753e388-5afe-4269-96b8-d7221b56b91b" />
+
 
 ---
 
