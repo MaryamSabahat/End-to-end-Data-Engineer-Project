@@ -1,10 +1,10 @@
-# End-to-End Data Engineer Project 🚀
+# End-to-End Data Engineer Project 
 
 **End-to-End Data Engineering Pipeline on Azure using ADF, Databricks, and Synapse**
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 1. [Project Overview](#1-project-overview)  
 2. [Architecture Diagram](#2-architecture-diagram)  
@@ -31,8 +31,8 @@ This project demonstrates a complete **Azure-native data engineering pipeline** 
 - PySpark transformations
 - Real-time business insights using Power BI
 
-✅ **Aligned with Modern Data Lakehouse Architecture**  
-✅ **Modular & Scalable**
+ **Aligned with Modern Data Lakehouse Architecture**  
+ **Modular & Scalable**
 
 ---
 
@@ -62,10 +62,10 @@ This project demonstrates a complete **Azure-native data engineering pipeline** 
 
 ### 4.1 Data Source
 
-- 📂 **Source:** Public GitHub dataset  
-- 🧾 **Format:** CSV  
-- 🎯 **Goal:** Ingest data into Azure  
-- 🔧 **Tool Used:** Azure Data Factory (HTTP connector)
+-  **Source:** Public GitHub dataset  
+-  **Format:** CSV  
+-  **Goal:** Ingest data into Azure  
+-  **Tool Used:** Azure Data Factory (HTTP connector)
 
 ---
 
@@ -73,11 +73,11 @@ This project demonstrates a complete **Azure-native data engineering pipeline** 
 
 Resources provisioned:
 
-- ✅ Azure Data Factory  
-- ✅ Azure Data Lake Gen2  
-- ✅ Azure Databricks (cluster)  
-- ✅ Azure Synapse Analytics  
-- ✅ Power BI (Desktop)
+-  Azure Data Factory  
+-  Azure Data Lake Gen2  
+-  Azure Databricks (cluster)  
+-  Azure Synapse Analytics  
+-  Power BI (Desktop)
 
 ---
 
@@ -110,7 +110,7 @@ Resources provisioned:
 - **ForEach Activity**: Loop through file list  
 - **Parameterized Copy Activity** inside loop
 
-✅ Outcome: One pipeline handles multiple files efficiently
+ Outcome: One pipeline handles multiple files efficiently
 
 ---
 
@@ -188,14 +188,12 @@ Resources provisioned:
 
 This project delivers a full-scale, cloud-native data engineering pipeline using **Azure best practices**.
 
-✅ **ADF** → Ingestion (static & dynamic)  
-✅ **ADLS Gen2** → Layered storage (Bronze/Silver/Gold)  
-✅ **Databricks** → PySpark transformation  
-✅ **Synapse** → SQL query layer  
-✅ **Power BI** → Visualization & insights
+ **ADF** → Ingestion (static & dynamic)  
+ **ADLS Gen2** → Layered storage (Bronze/Silver/Gold)  
+ **Databricks** → PySpark transformation  
+ **Synapse** → SQL query layer  
+ **Power BI** → Visualization & insights
 
-This real-world simulation improves my portfolio as an **aspiring data engineer** and showcases my understanding of modern **Data Lakehouse architecture** on Azure.
 
----
 
 
